@@ -1,5 +1,5 @@
 # char-LSTM
-LSTM character prediction net using PyTorch
+LSTM character prediction net using PyTorch.
 
 ## Usage
 ```console
