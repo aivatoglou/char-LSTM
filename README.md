@@ -1,4 +1,4 @@
-# char-LSTM
+# LSTM network
 Character-level text generation with LSTM - PyTorch
 
 ## Usage
